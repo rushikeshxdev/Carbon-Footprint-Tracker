@@ -1,0 +1,21 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore IDE-specific files and folders
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Other files to ignore
+bin/
+out/
+*.jar
+*.war
